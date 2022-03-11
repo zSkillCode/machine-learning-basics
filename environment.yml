@@ -1,0 +1,11 @@
+name: machine-learning-basics
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+prefix: /Users/davidniessen/.conda/envs/machine-learning-basics
