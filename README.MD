@@ -10,4 +10,5 @@
 <h2>Regression</h2>
 <ol>
     <li>Simple Linear Regression</li>
+    <li>Multiple Linear Regression</li>
 </ol>
