@@ -12,4 +12,5 @@
     <li>Simple Linear Regression</li>
     <li>Multiple Linear Regression</li>
     <li>Polynomial Regression</li>
+    <li>Support Vector Regression (SVR)</li>
 </ol>
