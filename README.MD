@@ -13,4 +13,5 @@
     <li>Multiple Linear Regression</li>
     <li>Polynomial Regression</li>
     <li>Support Vector Regression (SVR)</li>
+    <li>Decision Tree Regression</li>
 </ol>
