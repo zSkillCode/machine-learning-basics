@@ -20,4 +20,5 @@
 <h2>Classification</h2>
 <ol>
     <li>Logistic Regression</li>
+    <li>K-Nearest Neighbors (K-NN)</li>
 </ol>
