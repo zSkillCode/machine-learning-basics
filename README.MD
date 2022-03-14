@@ -21,4 +21,5 @@
 <ol>
     <li>Logistic Regression</li>
     <li>K-Nearest Neighbors (K-NN)</li>
+    <li>Support Vector Machine (SVM)</li>
 </ol>
