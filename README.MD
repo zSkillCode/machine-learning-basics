@@ -17,3 +17,7 @@
     <li>Random Forest Regression</li>
     <li>Select the best model for a given dataset</li>
 </ol>
+<h2>Classification</h2>
+<ol>
+    <li>Logistic Regression</li>
+</ol>
