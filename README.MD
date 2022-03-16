@@ -23,4 +23,5 @@
     <li>K-Nearest Neighbors (K-NN)</li>
     <li>Support Vector Machine (SVM)</li>
     <li>Kernel SVM</li>
+    <li>Naive Bayes</li>
 </ol>
